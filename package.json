@@ -18,10 +18,10 @@
   },
   "homepage": "https://github.com/milojs/ml-mixin",
   "dependencies": {
-    "ml-check": "^0.1.1",
-    "protojs": "^1.0.3"
+    "ml-check": "^0.1.1"
   },
   "devDependencies": {
+    "protojs": "^1.0.3",
     "async": "^0.9.0",
     "benchmark": "^1.0.0",
     "istanbul": "^0.4.0",
