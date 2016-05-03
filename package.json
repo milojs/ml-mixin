@@ -1,6 +1,6 @@
 {
   "name": "ml-mixin",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Mixin pattern, but implemented with mixin as an object which proxies it's methods to the host object",
   "main": "lib/mixin.js",
   "scripts": {
