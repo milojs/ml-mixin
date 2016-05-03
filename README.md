@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/milojs/ml-mixin.svg?branch=master)](https://travis-ci.org/milojs/ml-mixin)
 [![npm version](https://badge.fury.io/js/ml-mixin.svg)](https://badge.fury.io/js/ml-mixin)
+[![Code Climate](https://codeclimate.com/github/milojs/ml-mixin/badges/gpa.svg)](https://codeclimate.com/github/milojs/ml-mixin)
 [![Test Coverage](https://codeclimate.com/github/milojs/ml-mixin/badges/coverage.svg)](https://codeclimate.com/github/milojs/ml-mixin/coverage)
 
 An abstract Mixin class.
